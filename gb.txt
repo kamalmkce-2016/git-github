@@ -1,0 +1,6 @@
+that basically means....
+ -its a system that records changes toour files over time
+ -we can recally specific versions of those files at any given time
+ -many people can easily collaborate on a project and have their own version of project files on heir computer 
+
+
